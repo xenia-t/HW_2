@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Напишите программу, которая принимает на вход трехзначное число и на выходе показывает вторую цифру этого числа.
 Console.Write("Введите трехзначное число: ");
 string numberA = Console.ReadLine();
 int A = int.Parse(numberA);
